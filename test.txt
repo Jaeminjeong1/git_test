@@ -2,4 +2,4 @@ aaa
 bbbb
 ccccc
 new_branch = Hellooooo
-main_branch = kkkkkk
+new_branch = sssssss main과 함께
